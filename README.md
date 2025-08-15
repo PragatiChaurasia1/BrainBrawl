@@ -112,17 +112,6 @@ startTimer() {
 - **Smooth Animations**: CSS transitions and transforms
 - **Intuitive UX**: Clear visual feedback and navigation
 
-## Future Enhancements
-
-- [ ] Integration with Open Trivia Database API
-- [ ] User authentication and profile system
-- [ ] Global leaderboards and rankings
-- [ ] Social media sharing functionality
-- [ ] Progressive Web App (PWA) features
-- [ ] Multiplayer quiz battles
-- [ ] Custom quiz creation tools
-- [ ] Advanced analytics and insights
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
