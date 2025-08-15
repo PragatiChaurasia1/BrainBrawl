@@ -1,8 +1,8 @@
-# 🧠 Trivia Quiz Master
+# Trivia Quiz Master
 
 A modern, responsive trivia quiz application built with vanilla JavaScript, HTML5, and CSS3. Test your knowledge across multiple categories with varying difficulty levels!
 
-## 🌟 Features
+## Features
 
 - **Multiple Categories**: General Knowledge, Science & Nature, History, Sports, Entertainment, Geography
 - **Three Difficulty Levels**: Easy, Medium, Hard
@@ -12,7 +12,7 @@ A modern, responsive trivia quiz application built with vanilla JavaScript, HTML
 - **Modern UI/UX**: Clean, intuitive interface with smooth animations
 - **Detailed Results**: Comprehensive performance analytics and statistics
 
-## 🚀 Live Demo
+## Live Demo
 
 [View Live Demo](https://PragatiChaurasia1.github.io/trivia-quiz-master)
 
@@ -23,7 +23,7 @@ A modern, responsive trivia quiz application built with vanilla JavaScript, HTML
 - **Design**: Responsive Web Design, Mobile-First Approach
 - **Architecture**: Object-Oriented Programming, Modular Code Structure
 
-## ⚡ Quick Start
+## Quick Start
 
 1. **Clone the repository**
    ```bash
@@ -46,7 +46,7 @@ A modern, responsive trivia quiz application built with vanilla JavaScript, HTML
    - Answer questions within the time limit
    - View your results and try again!
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 trivia-quiz-master/
@@ -59,7 +59,7 @@ trivia-quiz-master/
 └── .gitignore            # Git ignore file
 ```
 
-## 🎮 How to Play
+## How to Play
 
 1. **Select Category**: Choose from 6 different knowledge categories
 2. **Pick Difficulty**: Select Easy, Medium, or Hard difficulty level
@@ -67,7 +67,7 @@ trivia-quiz-master/
 4. **View Results**: See detailed performance analytics
 5. **Play Again**: Try different categories and difficulties
 
-## 🔧 Code Highlights
+##  Code Highlights
 
 ### Object-Oriented Architecture
 ```javascript
@@ -105,14 +105,14 @@ startTimer() {
 }
 ```
 
-## 📊 Performance Features
+## Performance Features
 
 - **Responsive Design**: Adapts to all screen sizes
 - **Fast Loading**: Lightweight vanilla JavaScript implementation
 - **Smooth Animations**: CSS transitions and transforms
 - **Intuitive UX**: Clear visual feedback and navigation
 
-## 🌟 Future Enhancements
+## Future Enhancements
 
 - [ ] Integration with Open Trivia Database API
 - [ ] User authentication and profile system
@@ -123,7 +123,7 @@ startTimer() {
 - [ ] Custom quiz creation tools
 - [ ] Advanced analytics and insights
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -133,21 +133,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-Your Name - [pragativns2308@gmail.com](mailto:pragativns2308@gmail.com)
-
 Project Link: [https://github.com/PragatiChaurasia1/trivia-quiz-master](https://github.com/PragatiChaurasia1/trivia-quiz-master)
-
-## 🙏 Acknowledgments
-
-- Design inspiration from modern quiz applications
-- Question categories inspired by popular trivia games
-- CSS animations and effects from contemporary web design trends
 
 ---
 
