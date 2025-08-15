@@ -1,4 +1,4 @@
-# Trivia Quiz Master
+# BrainBrawl
 
 A modern, responsive trivia quiz application built with vanilla JavaScript, HTML5, and CSS3. Test your knowledge across multiple categories with varying difficulty levels!
 
@@ -14,7 +14,7 @@ A modern, responsive trivia quiz application built with vanilla JavaScript, HTML
 
 ## Live Demo
 
-[View Live Demo](https://PragatiChaurasia1.github.io/trivia-quiz-master)
+[View Live Demo](https://PragatiChaurasia1.github.io/BrainBrawl)
 
 ## 🛠️ Technologies Used
 
@@ -27,12 +27,12 @@ A modern, responsive trivia quiz application built with vanilla JavaScript, HTML
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PragatiChaurasia1/trivia-quiz-master.git
+   git clone https://github.com/PragatiChaurasia1/BrainBrawl.git
    ```
 
 2. **Navigate to project directory**
    ```bash
-   cd trivia-quiz-master
+   cd BrainBrawl
    ```
 
 3. **Open in browser**
@@ -49,11 +49,9 @@ A modern, responsive trivia quiz application built with vanilla JavaScript, HTML
 ## Project Structure
 
 ```
-trivia-quiz-master/
+BrainBrawl/
 │
 ├── index.html              # Main HTML file
-├── assets/
-│   └── screenshots/        # App screenshots
 ├── README.md              # Project documentation
 ├── LICENSE                # MIT License
 └── .gitignore            # Git ignore file
@@ -71,7 +69,7 @@ trivia-quiz-master/
 
 ### Object-Oriented Architecture
 ```javascript
-class TriviaQuiz {
+class BrainBrawlQuiz {
     constructor() {
         this.currentQuestion = 0;
         this.score = 0;
@@ -122,7 +120,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Project Link: [https://github.com/PragatiChaurasia1/trivia-quiz-master](https://github.com/PragatiChaurasia1/trivia-quiz-master)
+Project Link: [https://github.com/PragatiChaurasia1/BrainBrawl](https://github.com/PragatiChaurasia1/BrainBrawl)
 
 ---
 
